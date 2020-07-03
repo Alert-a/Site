@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project</title>
+    <link rel="stylesheet" href="project.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="title-text">Day and Night</h1>
+    </header>
+    <section class="content">
+      <a href="http://htmlbook.ru/html"
+        ><div class="card">
+          <h1 class="title">Moon</h1>
+          <img
+            src="photo-1563630381190-77c336ea545a.jpg"
+            class="card-image"
+          /></div
+      ></a>
+      <a href="https://webref.ru/css"
+        ><div class="card no">
+          <h1 class="title">Sun</h1>
+          <img
+            src="photo-1532767153582-b1a0e5145009.jpg"
+            class="card-image"
+          /></div
+      ></a>
+    </section>
+    <footer class="footer">
+      <h4 class="footer-title">Сделано 27.06.2020</h4>
+    </footer>
+  </body>
+</html>
